@@ -1,5 +1,5 @@
 
-# My Awesome Python Projects
+# My Python Projects
 Welcome to my GitHub repository! In this repo, you'll find various Python projects related to backend development,
 web scraping, and Telegram bots. Feel free to explore the code and contribute if you'd like!
 
